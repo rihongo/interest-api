@@ -1,0 +1,6 @@
+rootProject.name = 'interest'
+include 'product'
+include 'display'
+include 'eureka-server'
+include 'zuul'
+
